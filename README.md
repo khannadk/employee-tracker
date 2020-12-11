@@ -23,7 +23,7 @@ If you have any questions or care to contribute to this repository, please conta
 ## Tests
 To run tests, run the following command:
 ```
-Run "node start" to initialize the program.
+Run "node start.js" to initialize the program.
 ```
 ## Contact
 You may contact me at devkhanna@outlook.com if you have questions or contributions. You can fork my work at [khannadk](https://github.com/khannadk).
